@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample Code</string>
+    <string name="no_internet">No internet Connection</string>
+</resources>
